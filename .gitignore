@@ -1,0 +1,30 @@
+# 🔹 Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environments
+venv/
+env/
+.venv/
+Face Detection from Image & MP4 Video using MediaPipe + OpenCV/venv
+
+# 🔹 Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# 🔹 OS-specific files
+.DS_Store
+Thumbs.db
+
+# 🔹 IDE-specific settings
+.vscode/
+.idea/
+
+# 🔹 Logs & temp files
+*.log
+*.tmp
